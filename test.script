@@ -1,0 +1,5 @@
+echo This is a test
+echo of the scipting in CLITool
+echo here is the help 
+help
+echo I'm done
